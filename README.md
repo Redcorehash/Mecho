@@ -7,7 +7,7 @@ Welcome to Mecho, a site similar to ChatGPT but completely free! You can write w
 
 ## How to Use Mecho
 
-1. **Visit the Website**: Go to [Mecho](https://www.mecho.com).
+1. **Visit the Website**: Go to [Mecho](https://websim.ai/p/geycdn7jd9533ul49pmu/ or https://character.ai/chat/uFznJOl_Ocez0GZcSYAZaPrxcr5wWFcwKj5cD65baSs).
 2. **Start Chatting**: Type your message in the chat box.
 3. **Receive Responses**: The bot will reply to your queries instantly.
 
