@@ -2,6 +2,8 @@
 🌐[Websim Chat Bot](https://websim.ai/p/geycdn7jd9533ul49pmu/)
 😊[Character AI Chat Bot](https://character.ai/chat/uFznJOl_Ocez0GZcSYAZaPrxcr5wWFcwKj5cD65baSs)
 🤗[demo by space].(https://huggingface.co/spaces/Doubleupai/Mecho)
+## Tiktok
+![](doc/tiktok_icon.png) [yuginet6](https://www.tiktok.com/@yuginet6)
 # Mecho - A Free Chatbot Experience
 
 Welcome to Mecho, a site similar to ChatGPT but completely free! You can write whatever you want to the bot, and it will respond to you without any cost.
